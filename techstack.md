@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 sachajw/devbox is built on the following main stack:
+
 - [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - [Gradle](https://www.gradle.org/) – Java Build Tools
@@ -44,11 +45,13 @@ sachajw/devbox is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 sachajw/devbox is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/43/kQ_6nwmP.jpg' alt='Twilio SendGrid'/> [Twilio SendGrid](http://sendgrid.com) – Transactional Email
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
@@ -91,14 +94,15 @@ sachajw/devbox is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [sachajw/devbox](https://github.com/sachajw/devbox)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|78<br/>Tools used|11/16/23 <br/>Report generated|
+|78<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -562,13 +566,13 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[asgiref](https://pypi.org/asgiref)|v3.6.0|03/21/23|John Lago |BSD-3-Clause|N/A|
-|[emoji](https://pypi.org/emoji)|v2.1.0|03/21/23|John Lago |BSD-3-Clause|N/A|
-|[grpcio](https://pypi.org/grpcio)|v1.53.0|03/21/23|John Lago |Apache-2.0|N/A|
-|[jupyter](https://pypi.org/jupyter)|v1.0.0|03/21/23|John Lago |BSD-3-Clause|N/A|
-|[numpy](https://pypi.org/numpy)|v1.24.2|03/21/23|John Lago |BSD-3-Clause|N/A|
-|[psycopg2](https://pypi.org/psycopg2)|v2.9.5|03/21/23|John Lago |BSD-3-Clause-Attribution|N/A|
-|[sqlparse](https://pypi.org/sqlparse)|v0.4.4|05/04/23|dependabot[bot] |BSD-3-Clause|N/A|
+|[asgiref](https://pypi.org/project/asgiref)|v3.6.0|03/21/23|John Lago |BSD-3-Clause|N/A|
+|[emoji](https://pypi.org/project/emoji)|v2.1.0|03/21/23|John Lago |BSD-3-Clause|N/A|
+|[grpcio](https://pypi.org/project/grpcio)|v1.53.0|03/21/23|John Lago |Apache-2.0|N/A|
+|[jupyter](https://pypi.org/project/jupyter)|v1.0.0|03/21/23|John Lago |BSD-3-Clause|N/A|
+|[numpy](https://pypi.org/project/numpy)|v1.24.2|03/21/23|John Lago |BSD-3-Clause|N/A|
+|[psycopg2](https://pypi.org/project/psycopg2)|v2.9.5|03/21/23|John Lago |BSD-3-Clause-Attribution|N/A|
+|[sqlparse](https://pypi.org/project/sqlparse)|v0.4.4|05/04/23|dependabot[bot] |BSD-3-Clause|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/105007/default_73d78e4f498192361afd5741f4c00f073399d658.png'/> Hackage (1)
