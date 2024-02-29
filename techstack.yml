@@ -2,7 +2,7 @@ repo_name: sachajw/devbox
 report_id: 1e6f40c8b5289002aee6c108fd058653
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:39:22+00:00'
+timestamp: '2024-02-29T18:48:32+00:00'
 requested_by: mohsenari
 provider: github
 branch: main
@@ -287,7 +287,7 @@ tools:
   last_updated_by: Rodrigo Ipince
   last_updated_on: 2022-09-29 14:49:10.000000000 Z
 - name: Cowboy
-  description: 'Small, fast, modular HTTP server written in Erlang. '
+  description: Small, fast, modular HTTP server written in Erlang.
   website_url: https://github.com/ninenines/cowboy
   version: '2.9'
   license: ISC
@@ -416,7 +416,7 @@ tools:
   last_updated_by: Lucille Hua
   last_updated_on: 2022-09-22 19:00:11.000000000 Z
 - name: Nix
-  description: 'A package manager for Linux and other Unix systems '
+  description: A package manager for Linux and other Unix systems
   website_url: http://nixos.org/nix
   license: LGPL-2.1
   open_source: true
@@ -970,6 +970,13 @@ tools:
   detection_source: examples/development/python/pipenv/Pipfile
   last_updated_by: John Lago
   last_updated_on: 2023-03-21 18:49:18.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service Vulnerability in gRPC TCP Server (Posix-compatible platforms)
+    cve_id: CVE-2023-4785
+    cve_url: https://github.com/advisories/GHSA-p25m-jpj4-qcrr
+    detected_date: Feb 11
+    severity: high
+    first_patched: 1.53.2
 - name: jupyter
   description: Jupyter metapackage
   package_url: https://pypi.org/project/jupyter
